@@ -28,6 +28,9 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Mock Up and Video of working application
 
+https://drive.google.com/file/d/1oPcCQfC3eMvCSGmeDMP9Q4BYTesRXxIr/view
+
+https://github.com/mradison/SQL-employee-tracker
 
 ## Notes
 
