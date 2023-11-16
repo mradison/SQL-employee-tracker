@@ -33,6 +33,8 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 Here are some websites I used to help me with my assignment: (I also got help from my instructor, TA and Tutor):
 
+https://www.linode.com/docs/guides/how-to-undo-git-commit/
+
 I also went back to previous assignments and activities to get tips on how to code this assignment. 
 
 I also go help from classmates that were working on the same project. 
