@@ -128,7 +128,7 @@ async function promptManager() {
                 message: "What is the new employee's manager ID?"
             }
         ])
-        db.query('INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES (?, ?, ?, ?', [answer.firstName, answers.lastName, answers.newRole, answers.managerID], (err, result) {
+        db.query('INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES (?, ?, ?, ?)', [answers.firstName, answers.lastName, answers.newRole, answers.managerID], (err, result) => {
             if (err) throw err
             console.table(result)
             promptManager();
